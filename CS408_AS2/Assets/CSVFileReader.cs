@@ -25,7 +25,17 @@ public class CSVFileReader : MonoBehaviour
         string [] records = csvFile.text.Split('\n');
         for (int i = 1; i < records.Length; i++){
             string [] fields = records[i].Split(',');
+
+            //Update position
+            Vector3 newpos = new Vector3(0,0,0);
+            cubeTest.transform.position = newpos;
+
+            //Update rotation
             cubeTest.transform.Rotate(float.Parse(fields[1]), float.Parse(fields[2]), float.Parse(fields[3]));
+
+            //Update scale
+            Vector3 newscale = new Vector3(0,0,0);
+            cubeTest.transform.localScale += newscale;
         }
     }
 }
