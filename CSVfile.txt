@@ -1,4 +1,4 @@
-time,x,y,z
-1,2,3,4
-2,3,4,5
-3,4,5,6
+object_id,frame,position_x,position_y,position_z,rotation_x,rotation_y,rotation_z,scaling_x,scaling_y,scaling_z
+0,1,2,3,4
+0,2,3,4,5
+0,3,4,5,6
