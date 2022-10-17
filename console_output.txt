@@ -1,0 +1,1620 @@
+0.06
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0 does not exist.
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:50)
+
+Frame: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -15, Positional Y: 4, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+0.12
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -11, Positional Y: 4, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+0.18
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -10, Positional Y: 3, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+0.24
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 3
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -10, Positional Y: 3, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+0.3
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 4
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -10, Positional Y: 3, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+0.36
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 5
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -10, Positional Y: 3, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+0.42
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 6
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -9, Positional Y: 2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+0.48
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 7
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -7, Positional Y: 0, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:99)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:103)
+
+0.54
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 8
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -5, Positional Y: -2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:99)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:103)
+
+0.6
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 9
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -4, Positional Y: -3.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:122)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:126)
+
+0.66
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 10
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -4, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:145)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:149)
+
+0.72
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 11
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -4, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:145)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:149)
+
+0.78
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 12
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -3, Positional Y: -2.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:168)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:172)
+
+0.84
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 13
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -2, Positional Y: 0, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:122)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:126)
+
+0.9
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 14
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -1, Positional Y: 1, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:99)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:103)
+
+0.96
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 15
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 0, Positional Y: 1.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+1.02
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 16
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 1, Positional Y: 2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+1.08
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 17
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 2, Positional Y: 1.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+1.14
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 18
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 4, Positional Y: 1, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+1.2
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 19
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 5, Positional Y: -2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:99)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:103)
+
+1.26
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 20
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 6, Positional Y: -3.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:122)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:126)
+
+1.32
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 21
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 7, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:145)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:149)
+
+1.38
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 22
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 7, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:145)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:149)
+
+1.44
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 23
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 8, Positional Y: -2.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:168)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:172)
+
+1.5
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 24
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 9.5, Positional Y: -1.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:122)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:126)
+
+1.56
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 25
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 11, Positional Y: -1, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:99)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:103)
+
+1.62
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 26
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 12.5, Positional Y: 0.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+1.68
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 27
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 13.5, Positional Y: 0.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+1.74
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 0 has left the screen, and does not exist.
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:54)
+
+Frame: 28
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 15, Positional Y: 0.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:76)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:80)
+
+1.8
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1 does not exist.
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:50)
+
+Frame: 29
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -15, Positional Y: 4, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+1.86
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 29
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -11, Positional Y: 4, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+1.92
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 30
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -10, Positional Y: 3, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+1.98
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 31
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -9, Positional Y: 2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+2.04
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 32
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -7, Positional Y: 0, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:220)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:224)
+
+2.1
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 33
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -5, Positional Y: -2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:220)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:224)
+
+2.16
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 34
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -4, Positional Y: -3.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:243)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:247)
+
+2.22
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 35
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -4, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:266)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:270)
+
+2.28
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 36
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -4, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:266)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:270)
+
+2.34
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 37
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -3, Positional Y: -2.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:289)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:293)
+
+2.4
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 38
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -2, Positional Y: 0, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:243)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:247)
+
+2.46
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 39
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -1, Positional Y: 1, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:220)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:224)
+
+2.52
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 40
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 0, Positional Y: 1.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+2.58
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 41
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 1, Positional Y: 2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+2.64
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 42
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 2, Positional Y: 1.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+2.7
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 43
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 4, Positional Y: 1, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+2.76
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 44
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 5, Positional Y: -2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:220)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:224)
+
+2.82
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 45
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 6, Positional Y: -3.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:243)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:247)
+
+2.88
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 46
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 7, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:266)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:270)
+
+2.94
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 47
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 7, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:266)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:270)
+
+3
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 48
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 8, Positional Y: -2.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:289)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:293)
+
+3.06
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 49
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 9.5, Positional Y: -1.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:243)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:247)
+
+3.12
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 50
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 11, Positional Y: -1, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:220)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:224)
+
+3.18
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 51
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 12.5, Positional Y: 0.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+3.24
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 52
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 13.5, Positional Y: 0.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+3.3
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 1 has left the screen, and does not exist.
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:54)
+
+Frame: 53
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 15, Positional Y: 0.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:197)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:201)
+
+3.36
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2 does not exist.
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:50)
+
+Frame: 54
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -15, Positional Y: 4, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+3.42
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 54
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -11, Positional Y: 4, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+3.48
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 55
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -10, Positional Y: 3, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+3.54
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 56
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -9, Positional Y: 2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+3.6
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 57
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -7, Positional Y: 0, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:341)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:345)
+
+3.66
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 58
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -5, Positional Y: -2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:341)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:345)
+
+3.72
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 59
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -4, Positional Y: -3.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:364)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:368)
+
+3.78
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 60
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -4, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:387)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:391)
+
+3.84
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 61
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -4, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:387)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:391)
+
+3.9
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 62
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -3, Positional Y: -2.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:410)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:414)
+
+3.96
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 63
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -2, Positional Y: 0, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:364)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:368)
+
+4.02
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 64
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: -1, Positional Y: 1, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:341)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:345)
+
+4.08
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 65
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 0, Positional Y: 1.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+4.14
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 66
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 1, Positional Y: 2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+4.2
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 67
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 2, Positional Y: 1.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+4.26
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 68
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 4, Positional Y: 1, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+4.32
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 69
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 5, Positional Y: -2, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:341)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:345)
+
+4.38
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 70
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 6, Positional Y: -3.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:364)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:368)
+
+4.44
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 71
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 7, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:387)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:391)
+
+4.5
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 72
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 7, Positional Y: -4.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:387)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:391)
+
+4.56
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 73
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 8, Positional Y: -2.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:410)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:414)
+
+4.62
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 74
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 9.5, Positional Y: -1.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:364)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:368)
+
+4.68
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 75
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 11, Positional Y: -1, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:341)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:345)
+
+4.74
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 76
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 12.5, Positional Y: 0.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+4.8
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:58)
+
+Frame: 77
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 13.5, Positional Y: 0.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+
+4.86
+UnityEngine.Debug:Log (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:44)
+
+Object ID: 2 has left the screen, and does not exist.
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:54)
+
+Frame: 78
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:61)
+
+Positional X: 15, Positional Y: 0.5, Positional Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:318)
+
+Rotational X: 0, Rotational Y: 0, Rotational Z: 0
+UnityEngine.MonoBehaviour:print (object)
+CSVFileReader:readCSV () (at Assets/CSVFileReader.cs:322)
+

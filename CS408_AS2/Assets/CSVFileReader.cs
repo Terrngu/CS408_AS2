@@ -34,8 +34,11 @@ public class CSVFileReader : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        //readCSV();
+        //If user presses escape then end the program
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
 
     }
 
@@ -43,9 +46,13 @@ public class CSVFileReader : MonoBehaviour
 
         Debug.Log(Time.time);
 
+        //Create array and include each line of the text file into the array
         string [] records = csvFile.text.Split('\n');
+
+        //Create another array and include all inputs separated by a common, on each line, into the array
         string [] fields = records[i].Split(',');
 
+        //Check if the object is spawning, running or despawning (1 for spawning, 2 for despawning, 0 for running)
         if(float.Parse(fields[11]) == 1){
             print("Object ID: " + float.Parse(fields[0]) + " does not exist.");
         }
